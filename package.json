@@ -1,0 +1,24 @@
+{
+  "name": "101-js-with-tdd",
+  "version": "1.0.0",
+  "description": "Lib for TDD (experimental).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iramaro/101-js-with-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Ivan A. <iramaro@disroot.org> (http://www.blkb.inf.br/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/iramaro/101-js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/iramaro/101-js-with-tdd#readme"
+}
