@@ -3,15 +3,9 @@
   "version": "1.0.0",
   "description": "Lib for TDD (experimental).",
   "main": "index.js",
-  "private": true,
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
-<<<<<<< HEAD
     "pre-push": "npm run lint",
-=======
-    "postinstall": "husky install",
-    "prepush": "npm run lint",
->>>>>>> 8eb64a89211e685228b7fdd477dde204d5959cd3
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
