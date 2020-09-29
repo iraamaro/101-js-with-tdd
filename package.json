@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Lib for TDD (experimental).",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/*.js",
     "postinstall": "husky install",
@@ -28,6 +29,6 @@
     "eslint": "^7.9.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.0",
-    "husky": "^4.3.0"
+    "husky": "^5.0.0-alpha.5"
   }
 }
